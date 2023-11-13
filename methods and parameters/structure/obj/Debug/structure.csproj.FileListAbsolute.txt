@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\practice\structure\structure\bin\Debug\structure.exe.config
+D:\mphasis\problem statement\practice\structure\structure\bin\Debug\structure.exe
+D:\mphasis\problem statement\practice\structure\structure\bin\Debug\structure.pdb
+D:\mphasis\problem statement\practice\structure\structure\obj\Debug\structure.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\practice\structure\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\practice\structure\structure\obj\Debug\structure.exe
+D:\mphasis\problem statement\practice\structure\structure\obj\Debug\structure.pdb

@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day 6\student marks\student marks\bin\Debug\student marks.exe.config
+D:\mphasis\problem statement\days\day 6\student marks\student marks\bin\Debug\student marks.exe
+D:\mphasis\problem statement\days\day 6\student marks\student marks\bin\Debug\student marks.pdb
+D:\mphasis\problem statement\days\day 6\student marks\student marks\obj\Debug\student marks.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 6\student marks\student marks\obj\Debug\student marks.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 6\student marks\student marks\obj\Debug\student marks.exe
+D:\mphasis\problem statement\days\day 6\student marks\student marks\obj\Debug\student marks.pdb
